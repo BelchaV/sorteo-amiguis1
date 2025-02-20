@@ -1,2 +1,4 @@
 # sorteo-amiguis1
-Pruebas de JS
+<h1> Prueba de JS </h1>
+- en revisión
+``` por ahora no hay comandos ````
